@@ -12,8 +12,8 @@ global.APIKeys = {
 
 global.namabot = "Killuaa-Bot32"
 global.namaowner = "Pirrzaaa."
-global.packname = Killua-Bot32
-global.author = Pirrzaaa. 
+global.packname = "Killua-Bot32"
+global.author = "Pirrzaaa."
 global.myweb = "https://mez.ink/nicetryzaa"
 global.footer_text = "© " + namabot
 global.pp_bot = fs.readFileSync("./image/foto.jpg")
